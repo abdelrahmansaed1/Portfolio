@@ -1104,7 +1104,7 @@ export default function Portfolio() {
             <h1
               style={{
                 fontSize: isMobile
-                  ? "clamp(1rem, 7vw, 1rem)"
+                  ? "clamp(1.4rem, 7vw, 2.2rem)"
                   : "clamp(3rem, 7vw, 5.4rem)",
                 fontWeight: 800,
                 lineHeight: 1.06,
